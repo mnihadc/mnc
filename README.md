@@ -1,3 +1,4 @@
+![logo](https://github.com/mnihadc/mnc/blob/main/mnc-github-banner.png)
 <h1 align="center">Hi 👋, I'm Muhammed Nihad C</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 
